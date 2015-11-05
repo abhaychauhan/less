@@ -1,0 +1,12 @@
+#one {
+  height: 400px;
+  width: 1600px;
+  margin-bottom: 10px;
+  background: url("images/watermelon.jpg");
+}
+#two {
+  height: 400px;
+  width: 1600px;
+  margin-bottom: 10px;
+  background: url("images/home-pages/girl.jpg");
+}
